@@ -1,0 +1,27 @@
+# Core deep learning
+torch
+torchvision
+
+# Data & numerical
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Image processing
+Pillow
+opencv-python
+imagehash
+
+# Config & utilities
+PyYAML
+tqdm
+
+# Explainability
+grad-cam
+
+# Demo app
+streamlit

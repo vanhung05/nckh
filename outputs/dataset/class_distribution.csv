@@ -1,0 +1,32 @@
+﻿class_name,train_name,test_name,train_count,test_count,total_count,name_mismatch
+Actinic keratosis,Actinic keratosis,Actinic Keratosis,104,26,130,True
+Basal Cell Carcinoma,Basal Cell Carcinoma,Basal Cell Carcinoma,334,84,418,False
+Darier_s Disease,Darier_s Disease,Darier_s Disease,76,20,96,False
+Dermatofibroma,Dermatofibroma,Dermatofibroma,88,23,111,False
+Epidermolysis Bullosa Pruriginosa,Epidermolysis Bullosa Pruriginosa,Epidermolysis Bullosa Pruriginosa,76,20,96,False
+Hailey-Hailey Disease,Hailey-Hailey Disease,Hailey-Hailey Disease,116,29,145,False
+Herpes Simplex,Herpes Simplex,Herpes Simplex,70,18,88,False
+Impetigo,Impetigo,Impetigo,87,22,109,False
+Larva Migrans,Larva Migrans,Larva Migrans,112,28,140,False
+Leprosy Borderline,Leprosy Borderline,Leprosy Borderline,116,29,145,False
+Leprosy Lepromatous,Leprosy Lepromatous,Leprosy Lepromatous,234,59,293,False
+Leprosy Tuberculoid,Leprosy Tuberculoid,Leprosy Tuberculoid,187,47,234,False
+Lichen Planus,Lichen Planus,Lichen Planus,105,27,132,False
+Lupus Erythematosus Chronicus Discoides,Lupus Erythematosus Chronicus Discoides,Lupus Erythematosus Chronicus Discoides,92,23,115,False
+Melanoma,Melanoma,Melanoma,100,26,126,False
+Molluscum Contagiosum,Molluscum Contagiosum,Molluscum Contagiosum,107,27,134,False
+Mycosis Fungoides,Mycosis Fungoides,Mycosis Fungoides,92,24,116,False
+Neurofibromatosis,Neurofibromatosis,Neurofibromatosis,68,18,86,False
+Nevus,Nevus,Nevus,298,75,373,False
+Papilomatosis Confluentes And Reticulate,Papilomatosis Confluentes And Reticulate,Papilomatosis Confluentes And Reticulate,72,18,90,False
+Pediculosis Capitis,Pediculosis Capitis,Pediculosis Capitis,65,17,82,False
+Pigmented Benign Keratosis,Pigmented Benign Keratosis,Pigmented Benign Keratosis,382,96,478,False
+Pityriasis Rosea,Pityriasis Rosea,Pityriasis Rosea,103,26,129,False
+Porokeratosis Actinic,Porokeratosis Actinic,Porokeratosis Actinic,101,26,127,False
+Psoriasis,Psoriasis,Psoriasis,105,27,132,False
+Seborrheic keratosis,Seborrheic keratosis,Seborrheic keratosis,64,16,80,False
+Squamous cell carcinoma,Squamous cell carcinoma,Squamous cell carcinoma,157,40,197,False
+Tinea Corporis,Tinea Corporis,Tinea Corporis,91,23,114,False
+Tinea Nigra,Tinea Nigra,Tinea Nigra,94,24,118,False
+Tungiasis,Tungiasis,Tungiasis,106,27,133,False
+Vascular lesion,Vascular lesion,Vascular lesion,113,29,142,False

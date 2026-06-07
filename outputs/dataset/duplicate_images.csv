@@ -1,0 +1,86 @@
+﻿dup_type,distance,cross_split,image_a,image_b,split_a,split_b,class_a,class_b
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0010512.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0010512.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0010889.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0010889.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024468.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024468.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024470.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024470.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024511.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0024511.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024646.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024646.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024707.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024707.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024771.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024771.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024800.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0024800.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024913.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024913.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024948.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0024948.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025427.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0025427.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025605.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0025605.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025780.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025780.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025803.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025803.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025825.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025825.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025953.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025953.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025957.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025957.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025992.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0025992.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026040.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026040.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026149.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026149.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026171.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026171.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026194.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026194.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026457.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026457.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026468.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026468.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026525.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026525.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026575.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026575.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026625.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026625.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026626.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026626.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026650.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0026650.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026702.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026702.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026709.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026709.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026729.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026729.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026765.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026765.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026848.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026848.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026905.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026905.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026984.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0026984.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027254.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027254.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027447.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0027447.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027536.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027536.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027562.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0027562.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027668.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027668.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027802.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0027802.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027884.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027884.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027896.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027896.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027950.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027950.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027958.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0027958.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028063.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028063.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028076.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028076.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028190.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028190.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028314.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0028314.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028370.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0028370.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028517.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028517.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028558.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028558.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028820.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028820.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028854.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0028854.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028941.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0028941.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028990.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0028990.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029025.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0029025.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029041.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0029041.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029133.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0029133.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029141.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0029141.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029210.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0029210.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029309.jpg,D:\NCKH_V2\Data\train\Nevus\ISIC_0029309.jpg,train,train,Actinic Keratosis,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029460.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0029460.jpg,train,test,Actinic Keratosis,Nevus
+exact,0,False,D:\NCKH_V2\Data\train\Hailey-Hailey Disease\2445.jpg,D:\NCKH_V2\Data\train\Hailey-Hailey Disease\2446.jpg,train,train,Hailey-Hailey Disease,Hailey-Hailey Disease
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0000477.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0000512.jpg,train,test,Nevus,Nevus
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0024763.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0024763.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0025368.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0025368.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0026212.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0026212.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0026857.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0026857.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027334.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027334.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027452.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027452.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027580.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027580.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027615.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027615.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027650.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027650.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0027829.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027829.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,True,D:\NCKH_V2\Data\train\Nevus\ISIC_0028393.jpg,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0028393.jpg,train,test,Nevus,Actinic Keratosis
+exact,0,False,D:\NCKH_V2\Data\test\Actinic Keratosis\ISIC_0027172.jpg,D:\NCKH_V2\Data\test\Nevus\ISIC_0027172.jpg,test,test,Actinic Keratosis,Nevus
+near,4,False,D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0028346.jpg,D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0031344.jpg,train,train,Dermatofibroma,Dermatofibroma
+near,4,False,D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0029248.jpg,D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0030442.jpg,train,train,Dermatofibroma,Dermatofibroma
+near,0,False,D:\NCKH_V2\Data\train\Pediculosis Capitis\9570.jpg,D:\NCKH_V2\Data\train\Pediculosis Capitis\9583.jpg,train,train,Pediculosis Capitis,Pediculosis Capitis
+near,2,True,D:\NCKH_V2\Data\train\Pigmented Benign Keratosis\ISIC_0028165.jpg,D:\NCKH_V2\Data\test\Pigmented Benign Keratosis\ISIC_0025434.jpg,train,test,Pigmented Benign Keratosis,Pigmented Benign Keratosis
+near,0,True,D:\NCKH_V2\Data\train\Porokeratosis Actinic\img_75.jpg,D:\NCKH_V2\Data\test\Porokeratosis Actinic\5975.jpg,train,test,Porokeratosis Actinic,Porokeratosis Actinic
+near,4,False,D:\NCKH_V2\Data\train\Squamous cell carcinoma\ISIC_0024522.jpg,D:\NCKH_V2\Data\train\Squamous cell carcinoma\ISIC_0030387.jpg,train,train,Squamous cell carcinoma,Squamous cell carcinoma

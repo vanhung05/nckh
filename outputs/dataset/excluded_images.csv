@@ -1,0 +1,128 @@
+﻿image_path,class_name,reason,detail
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0010512.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0010889.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024468.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024470.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024511.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024646.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024707.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024771.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024800.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024913.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0024948.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025427.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025605.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025780.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025803.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025825.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025953.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025957.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0025992.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026040.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026149.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026171.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026194.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026457.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026468.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026525.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026575.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026625.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026626.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026650.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026702.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026709.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026729.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026765.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026848.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026905.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0026984.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027254.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027447.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027536.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027562.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027668.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027802.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027884.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027896.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027950.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0027958.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028063.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028076.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028190.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028314.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028370.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028517.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028558.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028820.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028854.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028941.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0028990.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029025.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029041.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029133.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029141.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029210.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029309.jpg,Actinic keratosis,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Actinic Keratosis\ISIC_0029460.jpg,Actinic keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0030442.jpg,Dermatofibroma,intra_train_duplicate,trùng với D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0029248.jpg
+D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0031344.jpg,Dermatofibroma,intra_train_duplicate,trùng với D:\NCKH_V2\Data\train\Dermatofibroma\ISIC_0028346.jpg
+D:\NCKH_V2\Data\train\Hailey-Hailey Disease\2446.jpg,Hailey-Hailey Disease,intra_train_duplicate,trùng với D:\NCKH_V2\Data\train\Hailey-Hailey Disease\2445.jpg
+D:\NCKH_V2\Data\train\Nevus\ISIC_0000477.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0010889.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024468.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024470.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024646.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024707.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024763.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024771.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024913.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0024948.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025368.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025780.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025803.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025825.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025953.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025957.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0025992.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026194.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026212.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026468.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026525.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026575.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026702.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026709.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026729.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026765.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026848.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026857.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026905.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0026984.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027254.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027334.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027452.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027536.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027580.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027615.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027650.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027668.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027829.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027884.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027896.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027950.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0027958.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028063.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028076.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028190.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028393.jpg,Nevus,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028517.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028558.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028820.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0028941.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0029025.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0029041.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0029141.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Nevus\ISIC_0029309.jpg,Nevus,conflicting_label,"nhóm trùng có nhãn mâu thuẫn: ['actinic keratosis', 'nevus']"
+D:\NCKH_V2\Data\train\Pediculosis Capitis\9583.jpg,Pediculosis Capitis,intra_train_duplicate,trùng với D:\NCKH_V2\Data\train\Pediculosis Capitis\9570.jpg
+D:\NCKH_V2\Data\train\Pigmented Benign Keratosis\ISIC_0028165.jpg,Pigmented Benign Keratosis,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Porokeratosis Actinic\img_75.jpg,Porokeratosis Actinic,leakage_train_test,trùng với ảnh test trong nhóm 2 ảnh
+D:\NCKH_V2\Data\train\Squamous cell carcinoma\ISIC_0030387.jpg,Squamous cell carcinoma,intra_train_duplicate,trùng với D:\NCKH_V2\Data\train\Squamous cell carcinoma\ISIC_0024522.jpg

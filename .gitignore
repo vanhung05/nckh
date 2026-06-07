@@ -1,0 +1,23 @@
+# Môi trường ảo
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dữ liệu gốc (không commit ảnh)
+Data/
+
+# Output huấn luyện (nặng) - giữ lại cấu trúc, bỏ file lớn
+outputs/checkpoints/**/*.pt
+outputs/logs/*.log
+
+# Hệ điều hành / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
