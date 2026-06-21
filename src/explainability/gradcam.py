@@ -28,16 +28,21 @@ class GradCAM:
         self.target_layer = target_layer
         self._activations: torch.Tensor | None = None
         self._gradients: torch.Tensor | None = None
+        # Chỉ dùng forward hook trên module; gradient được bắt bằng tensor hook
+        # gắn trực tiếp lên activation. Cách này tránh xung đột view+inplace
+        # (lỗi xảy ra với DenseNet do F.relu(..., inplace=True)).
         self._handles = [
             target_layer.register_forward_hook(self._forward_hook),
-            target_layer.register_full_backward_hook(self._backward_hook),
         ]
 
     def _forward_hook(self, module, inputs, output) -> None:
-        self._activations = output.detach()
+        # Giữ activation kèm graph (không detach) để có thể lấy gradient.
+        self._activations = output
+        if output.requires_grad:
+            output.register_hook(self._capture_gradient)
 
-    def _backward_hook(self, module, grad_input, grad_output) -> None:
-        self._gradients = grad_output[0].detach()
+    def _capture_gradient(self, grad: torch.Tensor) -> None:
+        self._gradients = grad.detach()
 
     def generate(
         self, input_tensor: torch.Tensor, class_idx: int | None = None
@@ -65,7 +70,9 @@ class GradCAM:
 
         # weights: trung bình gradient trên không gian (global average pooling).
         gradients = self._gradients  # (1, C, h, w)
-        activations = self._activations  # (1, C, h, w)
+        activations = (
+            self._activations.detach() if self._activations is not None else None
+        )  # (1, C, h, w)
         if gradients is None or activations is None:
             raise RuntimeError("Không bắt được activation/gradient từ target layer.")
 

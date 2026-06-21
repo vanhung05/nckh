@@ -62,7 +62,7 @@ class Config:
     def data_root(self) -> Path:
         """Đường dẫn tuyệt đối tới thư mục dữ liệu.
 
-        Ưu tiên biến môi trường SKIN_DATA_ROOT (hữu ích trên Colab/Kaggle khi
+        Ưu tiên biến môi trường SKIN_DATA_ROOT (hữu ích trên Kaggle khi
         dataset nằm ở vị trí khác), sau đó mới tới giá trị trong config.
         """
         env = os.environ.get("SKIN_DATA_ROOT")
